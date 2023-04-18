@@ -1,0 +1,199 @@
+﻿Message Text,Label
+"Hey, I'm interested in your item. Is it still available?",Legitimate
+I'm very interested in your item. Can I pay with PayID?,Suspicious
+Can you please share your bank details for payment?,Legitimate
+"I'm sorry, I can't meet in person. Can I pay with a money transfer instead?",Suspicious
+Is your item still available?,Legitimate
+"I want to buy your item, but I need to know your bank account details first.",Suspicious
+"Hi, is your item still available for sale?",Legitimate
+Can you please provide me with your mobile number?,Suspicious
+I'm interested in your item. Can I pay with a cheque?,Suspicious
+I'm interested in buying your item. Can we meet in person to do the transaction?,Legitimate
+"Hi, is your item still available? I want to buy it.",Legitimate
+I'm interested in your item. Can I pay with a wire transfer?,Suspicious
+"Hi, I want to buy your item. Can we do the transaction over the phone instead?",Suspicious
+Is your item still available for sale?,Legitimate
+Can you please provide me with your email address?,Suspicious
+"I'm interested in buying your item, but I'm not available to meet in person. Can I pay with a credit card?",Suspicious
+"Hi, is your item still available? Can you deliver it to me?",Legitimate
+I'm interested in your item. Can I pay with PayPal?,Legitimate
+"Hi, is your item still available for sale? I want to buy it.",Legitimate
+Can you please provide me with your PayPal email address?,Suspicious
+I'm interested in your item. Can I pay with cryptocurrency?,Suspicious
+"Hi, is your item still available? Can we do the transaction through Messenger?",Legitimate
+I'm interested in your item. Can I pay with a gift card?,Suspicious
+"Hi, is your item still available for sale? Can you ship it to me?",Legitimate
+I'm interested in your item. Can I pay with a cashier's check?,Suspicious
+"Hi, I'm interested in your item. Can I pay with a personal check?",Suspicious
+Is your item still available? Can you send me more pictures of it?,Legitimate
+I'm interested in your item. Can I pay with a money order?,Suspicious
+"Hi, is your item still available for sale? I want to buy it for my son.",Suspicious
+I'm interested in your item. Can I pay with Venmo?,Suspicious
+"Hi, is your item still available? Can I pay with a prepaid debit card?",Suspicious
+Is your item still available? Can you provide me with more details about it?,Legitimate
+I'm interested in your item. Can I pay with a credit card over the phone?,Suspicious
+"Hi, I want to buy your item. Can we do the transaction through WhatsApp?",Suspicious
+I'm interested in your item. Can I pay with Zelle?,Suspicious
+"Yes, it is. Can you meet up in person to complete the transaction?",Legitimate
+"Sorry, it's already sold.",Legitimate
+"No, it's not available anymore.",Legitimate
+I can only pay through PayPal.,Suspicious
+"I can only pay with a personal check, is that okay?",Suspicious
+Can you please send me a picture of your ID or credit card for verification purposes?,Suspicious
+"I'm interested, but I'm currently out of the country. I want to buy it",Suspicious
+I can only pay with a wire transfer.,Suspicious
+I'll send you the money via PayID,Suspicious
+I'll pay you via credit transfer if you ship it to me overseas.,Suspicious
+I'll only buy it if you give me a discount and ship it to me for free.,Suspicious
+I'll only buy it if you send it to my friend's address instead of mine.,Suspicious
+"I'm interested in buying it, but I need you to send me the item first",Suspicious
+I'll pay after you send me your identity such as drivers license to verify who you are,Suspicious
+I can only pay with a gift card.,Suspicious
+"I'm interested, but I need you to send me a sample first.",Suspicious
+I can only pay through a money transfer service.,Suspicious
+I'll pay you back double the amount if you lend me the money first.,Suspicious
+"I'm interested, but I need you to pay for the shipping first.",Suspicious
+I can only pay through payid,Suspicious
+"I'm interested, but I need you to send it to me before I pay.",Suspicious
+I'll pay you extra if you agree to meet me at an isolated location.,Suspicious
+I can only pay with a cryptocurrency.,Suspicious
+"I'm interested, but I need you to pay for the insurance first.",Suspicious
+"I can only pay with a credit card, but the name on the card doesn't match mine.",Suspicious
+I'll only buy it if you agree to return part of the money later.,Suspicious
+"I'm interested, but I need you to sign up for a trial subscription first.",Suspicious
+I'll only pay you if you agree to participate in my MLM scheme.,Suspicious
+"I'm interested, but I need you to provide me with your social security number first.",Suspicious
+I can only pay through a payment method that doesn't exist.,Suspicious
+I'll only pay you if you agree to give me a positive review.,Suspicious
+"I'm interested, but I need you to lend me the item first.",Suspicious
+I can only pay with a prepaid debit card.,Suspicious
+"I'm interested, but I need you to buy me a gift card first.",Suspicious
+I'll only buy it if you agree to let me pick it up at your home.,Suspicious
+"Hi, I'm interested in purchasing your item.",Legitimate
+Please send me more information about the product.,Legitimate
+Can I negotiate the price of the item?,Legitimate
+Check out my profile for more items for sale!,Legitimate
+"Hey, would you be interested in a trade?",Suspicious
+Is this item still available?,Legitimate
+"I can only pay with a personal check, is that okay?",Suspicious
+Can you send me your phone number to discuss further?,Legitimate
+"I'm not interested, sorry.",Legitimate
+Stop messaging me.,Legitimate
+I'm not interested in what you're selling.,Legitimate
+Give me your item for free.,Legitimate
+"I'm interested in purchasing this item, can you please send me more photos?",Legitimate
+Is this item still available? I'd like to buy it.,Legitimate
+Can we arrange a time and place to meet up for the exchange?,Legitimate
+Would you be willing to negotiate on the price?,Legitimate
+"I'm sorry, I won't be able to make it to our scheduled meeting time. Can we reschedule?",Legitimate
+"I noticed you're selling multiple items, would you be willing to offer a discount if I buy them all together?",Legitimate
+Can you tell me the dimensions of the item?,Legitimate
+I'd like to make an offer for the item. Would you consider a lower price?,Legitimate
+Can you provide more information about the item's condition?,Legitimate
+"I'm interested in purchasing the item, but I won't be able to meet in person. Can we arrange for shipping?",Legitimate
+Hi! I'm interested in buying your item. Would it be possible to meet at [location]?,Legitimate
+Could you send me more pictures of the item? I want to make sure it's in good condition.,Legitimate
+I saw that you lowered the price on your item. Would you be willing to accept my previous offer?,Legitimate
+I can meet you at [location] at 4 pm tomorrow. Does that work for you?,Legitimate
+"I'm interested in purchasing the item, but I have a few questions about the specifics. Can you provide more information?",Legitimate
+I'm ready to make an offer for the item. Are you open to negotiation?,Legitimate
+Can you tell me more about the item's history?,Legitimate
+I see that you're located far away from me. Would it be possible to arrange for shipping?,Legitimate
+"I'm interested in buying the item, but I won't be able to pick it up until next week. Would you be able to hold it for me?",Legitimate
+Can you tell me how old the item is?,Legitimate
+Hi! I'm interested in buying your item. Could you tell me what the measurements are?,Legitimate
+Is the item still available? I would love to buy it!,Legitimate
+I'm wondering if you would be able to meet at a different location? It would be more convenient for me.,Legitimate
+Could you tell me a little more about the item's condition?,Legitimate
+Would you be open to negotiation on the price?,Legitimate
+Hi! I saw that you're selling multiple items that I'm interested in. Would you be willing to bundle them together?,Legitimate
+I won't be able to make it to our scheduled meet-up time. Would it be possible to reschedule?,Legitimate
+Could you provide more pictures of the item? I want to see all angles before I make a decision.,Legitimate
+I have a few questions about the item's history. Would you be able to provide more information?,Legitimate
+"I'm very interested in the item, but I'm located quite far from you. Would you be open to shipping it to me?",Legitimate
+Hi! I'm wondering if you would be willing to accept a lower price for the item?,Legitimate
+"I'd like to buy the item, but I'm not able to meet in person. Would shipping be an option?",Legitimate
+Could you let me know the condition of the item? I want to make sure it's in good shape.,Legitimate
+"I'm interested in the item, but I'm not able to meet until later this week. Would it be possible to hold it for me?",Legitimate
+Is the item still available? I'd like to purchase it as soon as possible.,Legitimate
+"Hi, is your item still available?",Legitimate
+Is the item still for sale?,Legitimate
+I am interested in purchasing your item.,Legitimate
+"I want to buy this item, is it still available?",Legitimate
+What's the condition of the item?,Legitimate
+Can I come see the item in person?,Legitimate
+"I'm okay with the price, let's proceed with the sale.",Legitimate
+I can offer you more money for the item.,Suspicious
+I'll pay you extra to hold the item for me.,Suspicious
+I'll pay with a check or money order.,Suspicious
+Can you ship the item to me first?,Suspicious
+I need your personal information for a wire transfer.,Suspicious
+I can only pay with gift cards or cryptocurrency.,Suspicious
+"I'm currently living overseas, can you ship to me?",Suspicious
+"The item is for my son's birthday, can you ship it ASAP?",Suspicious
+"I accidentally sent too much money, can you refund me?",Suspicious
+My son will pick the item up today. I'll transfer the money to you now,Suspicious
+My dad will pick the item up today. I'll transfer the money via payid,Suspicious
+My cousin will pick up the item today,Suspicious
+Is this item still available?,Legitimate
+Can you give me your phone number or email?,Suspicious
+I'm interested in buying your item. Can you send me more pictures?,Legitimate
+I'm willing to pay more than your asking price.,Suspicious
+"I'll send you a cashier's check for more than the item's price, you can keep the extra and send me the item.",Suspicious
+Can we communicate outside of Facebook?,Suspicious
+I'll send you the money as soon as you give me your payid information.,Suspicious
+I'm an agent for a buyer who wants to purchase your item.,Suspicious
+I need you to send me a code to verify your account.,Suspicious
+"I'm interested in buying your item, but I'm currently out of the country. Can you ship it to me?",Suspicious
+"I'll pay for the item, but you need to pay for the shipping costs.",Suspicious
+"I'll pay you through Cash App, but you need to pay the fee.",Suspicious
+"I want to buy your item, but I need you to send me a gift card first.",Suspicious
+"I'll send you the money through Zelle, but you need to provide me with your bank account information.",Suspicious
+"I'm interested in buying your item, but I need you to send me a refundable deposit first.",Suspicious
+"I'm willing to buy your item, but I need you to first send me a small payment to show that you're serious.",Suspicious
+"I want to buy your item, but I need you to send it to me first so that I can inspect it.",Suspicious
+"I'll pay you through Western Union, but I need you to first provide me with your personal information.",Suspicious
+"I'm interested in buying your item, but I need you to first verify your identity by providing me with your driver's license or passport.",Suspicious
+"""Hi, I'm interested in your item. Can you please send me more pictures and details about it?""",Legitimate
+"""I want to buy your item, but I'm out of town right now. Can I pay with a cashier's check and have someone pick it up for me?""",Suspicious
+"""Is your item still available? I'm willing to pay full price for it.""",Legitimate
+"""I can only pay through Venmo or Cash App. Can you send me your username so I can send the payment?""",Suspicious
+"""I'm interested in your item, but I need you to ship it to me overseas. I'll pay extra for shipping.""",Suspicious
+"""Can you please hold the item for me for a few days? I'm waiting for my paycheck to come in.""",Legitimate
+"""I'll buy your item, but I need you to send me a small deposit to show that you're serious about selling it.""",Suspicious
+"""I'm really interested in your item. Can we meet in person so I can see it before I buy it?""",Legitimate
+"""I'm willing to pay more than your asking price, but I need you to send me a gift card code for the difference.""",Suspicious
+"""I'm sorry, I can't meet you in person, but I'll pay extra for shipping if you send me your PayPal information.""",Suspicious
+"""I'll buy your item right now, but I need you to send it to me first and then I'll pay you later.""",Suspicious
+"""Can you please provide proof of ownership for the item, such as a receipt or invoice?""",Legitimate
+Can you please give me your PayID details for the payment?,Suspicious
+"I want to buy the item, but my bank is asking for a PayID.",Suspicious
+I can pay extra if you give me your PayID.,Suspicious
+"I don't have cash right now, but I can pay you via PayID.",Suspicious
+"I want to buy your item, but I can only pay via PayID.",Suspicious
+"I'm interested in the item, but can you accept payment via PayID instead of bank transfer?",Suspicious
+"Sorry, I can't meet up in person. Can I pay you via PayID instead?",Suspicious
+I'm having issues with bank transfer. Can I pay you via PayID?,Suspicious
+"I want to buy your item, but I'm currently overseas. Can I pay via PayID?",Suspicious
+Can you give me your PayID and I'll pay you immediately?,Suspicious
+"I'm interested in the item, but can I pay you via PayID in installments?",Suspicious
+Can you give me your PayID details for the payment and I'll transfer the money later?,Suspicious
+I'm having issues with PayPal. Can I pay you via PayID instead?,Suspicious
+"I'm interested in buying the item, but I need to confirm your PayID before proceeding.",Suspicious
+Can you send me a screenshot of your PayID for verification?,Suspicious
+"Sorry, I can't pay you the full amount right now. Can I pay you via PayID in installments?",Suspicious
+I'm having trouble with my bank. Can I pay you via PayID instead?,Suspicious
+"I want to buy your item, but my bank is not accepting the transfer. Can I pay you via PayID instead?",Suspicious
+Can you give me your PayID details and I'll pay you the money in a few days?,Suspicious
+"I can pay you via PayID, but I need a discount.",Suspicious
+Can you send me your PayID and I'll pay you after receiving the item?,Suspicious
+"I'm interested in buying the item, but can you give me a discount if I pay you via PayID?",Suspicious
+"Sorry, I can't meet up in person. Can I pay you via PayID and you ship the item to me?",Suspicious
+"I can pay you via PayID, but I need the item delivered to my address.",Suspicious
+Can you give me your PayID and I'll pay you in cryptocurrency?,Suspicious
+"I'm interested in buying the item, but I need your PayID for verification purposes.",Suspicious
+"I can pay you via PayID, but I need you to mark the item as ""delivered"" before paying.",Suspicious
+Can you give me your PayID and I'll pay you once I receive the item?,Suspicious
+"I can pay you via PayID, but I need you to leave a positive feedback before paying.",Suspicious
+Can you give me your PayID and I'll pay you once I sell the item?,Suspicious
+Could you share your personal information for a wire transfer?,Suspicious
